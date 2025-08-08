@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 xui-id="18817" tvg-id="" tvg-name="CHANNEL 24 HD" tvg-logo="http://tv.digitalview.live:80/images/_kCfWxJ7xY1epHYDdSJ0VqXyRtgRG3I0xqlnqUKeDykqb3tm7u3dUzspaNqZSJDDFRWxbaXMnLvmaL3dFCOYzw.png" group-title="BD | Bangla",CHANNEL 24 HD
+http://starter.nvisionbd.net:80/play/SvAwtbZ8vgcHGo_10zsZ1Ay2neoaDV_KSFcQIQ4EGGGAX6XXw90Bn2HFgYDHYV9N
+
+#EXTINF:-1 xui-id="18817" tvg-id="" tvg-name="ZEE BANGLA HD" tvg-logo="http://tv.digitalview.live:80/images/_kCfWxJ7xY1epHYDdSJ0VqXyRtgRG3I0xqlnqUKeDykqb3tm7u3dUzspaNqZSJDDFRWxbaXMnLvmaL3dFCOYzw.png" group-title="BD | Bangla",ZEE BANGLA HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
